@@ -1,0 +1,65 @@
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.xml
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form1.resources
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Resources.resources
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.xml
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form2.resources
+C:\Users\Steve Munich\source\repos\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form3.resources
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.xml
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form1.resources
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form2.resources
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form3.resources
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Resources.resources
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.xml
+C:\Users\Steve Munich\source\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.xml
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.AssemblyReference.cache
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form3.resources
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Resources.resources
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.GenerateResource.cache
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.xml
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\devon\Desktop\a1-School\General Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form1.resources
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.AssemblyReference.cache
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form1.resources
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Resources.resources
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.GenerateResource.cache
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.xml
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\DevSt\Desktop\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.xml
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe.config
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.exe
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.pdb
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\bin\Debug\MousePositionAndAutoClicker.xml
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.AssemblyReference.cache
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Form1.resources
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.Resources.resources
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.GenerateResource.cache
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.exe
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.xml
+C:\Users\DevSt\Desktop\Programming\repos\VB\MousePositionAndAutoClicker\MousePositionAndAutoClicker\obj\Debug\MousePositionAndAutoClicker.pdb
